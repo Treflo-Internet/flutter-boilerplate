@@ -1,16 +1,20 @@
 # flutter_boilerplate
 
-A new Flutter project.
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+This project is a boilerplate for your next Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Structuring your Flutter apps with scalability in mind:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<dl>
+  <dt>Quick scaffolding</dt>
+  <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <dt>Instant feedback</dt>
+</dl>
+
+- [Quick scaffolding](https://flutter.dev/docs/get-started/codelab)
+- [Industry-standard i18n internationalization support](https://flutter.dev/docs/cookbook)
+
